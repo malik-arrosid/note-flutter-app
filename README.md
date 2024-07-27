@@ -7,3 +7,6 @@ The Note Flutter App is a simple and intuitive note-taking application built usi
 - Create and manage notes
 - Edit and delete existing notes
 - User-friendly interface
+
+## Databases
+- SQLite
